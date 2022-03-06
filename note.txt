@@ -1,1 +1,3 @@
 math =12
+arabe=19
+francais=12
